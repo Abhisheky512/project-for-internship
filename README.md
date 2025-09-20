@@ -1,2 +1,2 @@
 # project-for-internship
-the enhance the skill .
+Trying to learan skill for bettar carrier in AI and Machine learning .
